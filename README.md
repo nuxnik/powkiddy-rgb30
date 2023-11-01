@@ -4,6 +4,10 @@ I bought a Powkiddy RGB30 mainly for [pico-8](https://www.lexaloffle.com/pico-8.
 
 I modeled this project using [Solvespace](https://solvespace.com/index.pl).
 
+Thingiverse Pages 
+* [Reference model](https://www.thingiverse.com/thing:6276014)
+* [Protective Case](https://www.thingiverse.com/thing:6292727)
+
 ![Powkiddy RGB30 Reference Model](img/powkiddy-rgb30.jpg)
 ![Powkiddy RGB30 TPU case 01](img/powkiddy-rgb30-case-01.jpeg)
 ![Powkiddy RGB30 TPU case 02](img/powkiddy-rgb30-case-02.jpeg)
